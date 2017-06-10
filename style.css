@@ -1,5 +1,6 @@
 .panel-body {
 	text-align: center;
+
 }
 
 .footer {
@@ -8,4 +9,8 @@
 	width: 100%;
 	text-align: center;
 	line-height: 4;
+}
+
+aside {
+	margin-bottom: 80px;
 }
